@@ -14,3 +14,6 @@ elem=35
 linear_search(a,n,elem)
 
 
+# Time Complexity
+# Best O(1)
+# Worst O(n)

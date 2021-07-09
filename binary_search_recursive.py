@@ -22,3 +22,8 @@ elem=80
 left=0
 right=n-1
 binary_search(a,elem,left,right)
+
+
+# Time Complexity
+# Best O(1)
+# Worst O(log(n))
